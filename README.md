@@ -9,6 +9,9 @@
 |Qiita|[0Delta](https://qiita.com/0Delta)
 |atCoder|[ZeroDelta](https://atcoder.jp/users/ZeroDelta)
 
+1993/11 生
+専門学校HAL名古屋ゲーム学科卒
+
 ## スキル
 ### 言語
 - Go
@@ -52,7 +55,7 @@
 
 ## 職務経歴
 
-### 2019/03 - 現在 : クラウドエース
+### 2019/03 - 現在 : クラウドエース株式会社
 
 職務: バックエンドエンジニア
 
@@ -97,7 +100,7 @@
 
 #### 社内向け業務端末の選定、キッティング、トラブル対応
 
-- Windows10
+- Windows10、8、7
 - WindowsPE、bat
 - PHP
 - Docker
