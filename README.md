@@ -4,73 +4,107 @@
 
 |key|value|
 |---|-----|
-|Name|ふー　ばー (Foo Bar)|
-|Blog|[ふーばーブログ](http://foobar.blog.com)|
-|Twitter|[@foobar](https://twitter.com/foobar)|
+|Name|0Δ (ぜろでるた)|
+|Twitter|[@0Delta](https://twitter.com/0delta)|
+|Qiita|[0Delta](https://qiita.com/0Delta)
+|atCoder|[ZeroDelta](https://atcoder.jp/users/ZeroDelta)
 
 ## スキル
 ### 言語
-- Ruby
-- PHP
-- Java
-- などなど
+- Go
+- Python
+- C++
+- 他
 
 ### フレームワーク
 
-- Ruby on Rails
-- Laravel
-- Spring Boot
-- などなど
+- Vue.js
 
 ### その他
 
-- 言語やフレームワークに限らないスキル。開発手法やプロセス、ツールなど
+- Docker
+  - Docker Compose
+- GCP
+  - GAE
+  - GKE
+  - GCE
+  - Dataflow
+  - CloudRun
+  - BigQuery
+- Kubernetes
+- vim-jp ドキュメント翻訳
+- 
 
 ## 言語
 
 - 日本語
   - ネイティブ
 - 英語
-  - かんたんな日常会話ができる
-  - TOEIC: xxx点
+  - ドキュメントを辞書有りで読める程度
 
 ## 強み
 
 ## やったことはないが興味があるもの
 
+- AWS
+- Azure
+- Istio
+
 ## 職務経歴
 
-### yyyy/mm - 現在 : 会社名
+### 2019/03 - 現在 : クラウドエース
 
-職務: Webアプリケーションエンジニア（例）
+職務: バックエンドエンジニア
 
-#### 職務内容の名前（レストラン検索とか）
+#### 某Webアプリのα版製作
 
-- 職務内容の詳細を箇条書きでかく
+- Vue.js
+- javascript
+- GCP
+  - SpeechToTextAPI
+  - TranslateAPI
 
-### yyyy/mm - yyyy/mm: （前職の企業名。あれば）
+#### 某Webアプリのリファクタリング
 
-職務: サーバーサイドエンジニア
+- Python3
+  - UDP通信
+  - パケット解析
+- GCP
+  - GCE
+    - CentOS
+  - GCS
+  - Firestore(RTDB)
 
-#### 職務内容の名前（レストラン検索とか）
+#### 某企業向けサポート業務
 
-- 職務内容の詳細を箇条書きでかく
+- BigQuery
+- Dataflow
+
+### 2014/04 - 2018/10: 某ゲーム会社
+
+職務: インフラエンジニア、社内SE
+
+#### MMORPG向けサーバの構築
+
+- Zabbix,Grafana
+- CentOS6,7
+- データセンタへの搬入、ラッキング、インストール、結線
+- VPNの構築(NETGEAR製スイッチのオペレート)
+- XenServer、KVM
+
+- レンタルサーバ
+- Ansible
+
+#### 社内向け業務端末の選定、キッティング、トラブル対応
+
+- Windows10
+- WindowsPE、bat
+- PHP
+- Docker
 
 ## 課外活動
 
 ### 社外プロジェクト
-* [運営に携わっているコミュニティ](そのコミュニティのconnpassやカンファレンスページのリンクとか)
-* [副業で携わっているサービス](そのサービスのランディングページのリンクとか)
+* [vim-jp](https://vim-jp.org/)
+* [インフラ勉強会](https://wp.infra-workshop.tech/)
 
-### 過去の登壇資料
-* [Speaker Deck](Speaker Deckの自分の資料のページとか)
-
-### 受賞歴
-* [イベント名と受賞した賞](イベントのランディングページのリンクや、結果がわかる記事など)
-
-### 執筆歴
-* [書籍の名前](Amazonのリンクとか)
-* [Qiita](Qiitaの自分のプロフィールのリンクとか)
-* [ネットメディアの記事](記事のリンクとか)
-* [SoftwareDesignやWEB+DBのこの月の特集](その月のアーカイブのリンクとか)
-* [技術系同人誌](boothのリンクとか自分のサイトの紹介リンクとか)
